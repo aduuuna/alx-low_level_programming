@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /*
- * main - A C program that assign a random variable to n
+ * main - A C program that prints if a number is positive,negative or zero
  * Return: 0 (Success)
  */
 int main(void)
