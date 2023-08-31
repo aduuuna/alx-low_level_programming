@@ -25,4 +25,6 @@ int is_palindrome(char *s);
 
 int wildcmp(char *s1, char *s2);
 
+int comparator(char *s, int n1, int n2);
+
 #endif
